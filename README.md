@@ -3,7 +3,7 @@ The simple Rest API application example build on [Symfony 4](https://symfony.com
 ## Installation
 ### 1. Clone repository
 ```bash
-git clone https://github.com/romfizz898/SF4REST
+git clone REPOLINK
 ```
 ### 2. Dependencies installation
 Install project dependencies with composer using the following command in the project folder
