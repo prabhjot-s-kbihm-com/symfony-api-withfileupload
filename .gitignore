@@ -1,0 +1,9 @@
+
+###> symfony/framework-bundle ###
+/.env
+/public/bundles/
+/var/
+/vendor/
+/public/uploads/brochures/*
+!/public/uploads/brochures/.keep
+###< symfony/framework-bundle ###
