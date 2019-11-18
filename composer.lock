@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "64ab5f6480b1453f43412e3c333cc8f8",
@@ -2630,16 +2630,16 @@
         },
         {
             "name": "symfony/dependency-injection",
-            "version": "v4.1.5",
+            "version": "v4.1.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dependency-injection.git",
-                "reference": "985ebee0d4cadaadef4d81aaccf0018443cf2560"
+                "reference": "919a245e0642afa353a333d8bf3352320af85969"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/985ebee0d4cadaadef4d81aaccf0018443cf2560",
-                "reference": "985ebee0d4cadaadef4d81aaccf0018443cf2560",
+                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/919a245e0642afa353a333d8bf3352320af85969",
+                "reference": "919a245e0642afa353a333d8bf3352320af85969",
                 "shasum": ""
             },
             "require": {
@@ -2697,7 +2697,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2018-09-21T12:49:42+00:00"
+            "time": "2019-04-16T11:21:55+00:00"
         },
         {
             "name": "symfony/doctrine-bridge",
